@@ -1,0 +1,9 @@
+echo "# Johnson-Jaidan_2_Journals" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/so(U)lar/Johnson-Jaidan_2_Journals.git
+
+last command wait until you complete the journal and ask davis
+
+git push -u origin master
